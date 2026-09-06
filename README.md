@@ -10,6 +10,7 @@
   <a href="https://github.com/bnymnDev/agentgate"><img src="https://img.shields.io/github/stars/bnymnDev/agentgate?style=for-the-badge&logo=github&label=agentgate&color=181717" alt="agentgate stars"/></a>
   <a href="https://github.com/bnymnDev/shopware-mcp"><img src="https://img.shields.io/npm/v/shopware-mcp?style=for-the-badge&logo=npm&label=shopware-mcp&color=CB3837" alt="shopware-mcp on npm"/></a>
   <a href="https://github.com/bnymnDev/uuidulid"><img src="https://img.shields.io/maven-central/v/io.github.bnymndev/uuidulid-core?style=for-the-badge&logo=apachemaven&label=uuidulid&color=C71A36" alt="uuidulid on Maven Central"/></a>
+  <a href="https://github.com/bnymnDev/spring-durable-agents"><img src="https://img.shields.io/maven-central/v/io.github.bnymndev/durable-agents-starter?style=for-the-badge&logo=apachemaven&label=spring-durable-agents&color=C71A36" alt="spring-durable-agents on Maven Central"/></a>
 </p>
 
 ---
