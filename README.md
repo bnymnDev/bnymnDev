@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Bünyamin 👋</h1>
+<h1 align="center">Hi, I'm Bünyamin</h1>
 
 <p align="center">
   <b>Full Stack Developer · Team Lead · building tooling for AI agents</b><br/>
-  Java / Spring Boot · Angular · Go · TypeScript — from Essen, Germany 🇩🇪
+  Java / Spring Boot · Angular · Go · TypeScript — from Essen, Germany
 </p>
 
 <p align="center">
@@ -14,22 +14,22 @@
 
 ---
 
-### 🧑‍💻 About me
+### About me
 
-- 🏢 **Team Lead** of a dev team: people leadership, two-week sprints, a lot of coffee
-- ⚙️ Came up through **Java · Spring Boot · Angular**; these days I also ship **Go**, **TypeScript** and the odd **Swift** app
-- 🤖 Currently obsessed with the boring-but-critical parts of **AI agents**: durability, guardrails, audit trails, MCP
-- 🎓 IHK Agile Leadership (with distinction) · Certified Scrum Master
-- 💬 Ask me about Spring AI, MCP servers, Shopware 6, or how to run a dev team without micromanaging it
+- **Team Lead** of a dev team: people leadership, two-week sprints, a lot of coffee
+- Came up through **Java · Spring Boot · Angular**; these days I also ship **Go**, **TypeScript** and the odd **Swift** app
+- Currently obsessed with the boring-but-critical parts of **AI agents**: durability, guardrails, audit trails, MCP
+- IHK Agile Leadership (with distinction) · Certified Scrum Master
+- Ask me about Spring AI, MCP servers, Shopware 6, or how to run a dev team without micromanaging it
 
-### 🔭 Right now
+### Right now
 
-- 🛡️ Hardening **agentgate**: policy + audit + kill switch for MCP tool calls, one Go binary
-- 🔁 Shipping **spring-durable-agents**: agents that survive a crash or redeploy and pick up where they stopped
-- 🛒 Growing **shopware-mcp** with every "can the assistant also…" question from shop owners
-- 📐 Training **roofsight** models that run on the phone in the installer's hand
+- Hardening **agentgate**: policy + audit + kill switch for MCP tool calls, one Go binary
+- Shipping **spring-durable-agents**: agents that survive a crash or redeploy and pick up where they stopped
+- Growing **shopware-mcp** with every "can the assistant also…" question from shop owners
+- Training **roofsight** models that run on the phone in the installer's hand
 
-### 🛠️ Tech stack
+### Tech stack
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -44,10 +44,10 @@
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shopware_6-189EFF?style=for-the-badge&logo=shopware&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white"/>
 </p>
 
-### 🚀 Projects I'm proud of
+### Projects I'm proud of
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -58,7 +58,7 @@
 | [**uuidulid**](https://github.com/bnymnDev/uuidulid) | ULID and UUIDv7 for Java, plus the glue to use them as REST identifiers (Jackson, Spring, JPA). Zero dependencies, Java 8+. | Java |
 | [**voltaris-demos**](https://github.com/bnymnDev/voltaris-demos) | Demo recordings of Voltaris, a native iOS app for photovoltaic planning built for electrical contractors. | Swift, CoreML |
 
-### 📊 Stats
+### Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bnymnDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="stats"/>
@@ -73,9 +73,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=bnymnDev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies"/>
 </p>
 
-### 📫 Reach me
+### Reach me
 
-Open an issue on one of the repos, or start a discussion there — that's where I'm most responsive. If one of these projects saved you an afternoon, a ⭐ helps the next person find it.
+Open an issue on one of the repos, or start a discussion there — that's where I'm most responsive. If one of these projects saved you an afternoon, a star helps the next person find it.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bnymnDev&style=for-the-badge&color=181717" alt="profile views"/>
