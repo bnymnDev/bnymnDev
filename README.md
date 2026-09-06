@@ -1,6 +1,3 @@
-PASTE_TEST_LINE
-PASTE_TEST_LINE
-PASTE_TEST_LINE
 <h1 align="center">Hi, I'm Bünyamin 👋</h1>
 
 <p align="center">
@@ -12,17 +9,25 @@ PASTE_TEST_LINE
   <a href="https://github.com/bnymnDev?tab=followers"><img src="https://img.shields.io/github/followers/bnymnDev?style=for-the-badge&logo=github&label=Followers&color=181717" alt="followers"/></a>
   <a href="https://github.com/bnymnDev/agentgate"><img src="https://img.shields.io/github/stars/bnymnDev/agentgate?style=for-the-badge&logo=github&label=agentgate&color=181717" alt="agentgate stars"/></a>
   <a href="https://github.com/bnymnDev/shopware-mcp"><img src="https://img.shields.io/npm/v/shopware-mcp?style=for-the-badge&logo=npm&label=shopware-mcp&color=CB3837" alt="shopware-mcp on npm"/></a>
+  <a href="https://github.com/bnymnDev/uuidulid"><img src="https://img.shields.io/maven-central/v/io.github.bnymndev/uuidulid-core?style=for-the-badge&logo=apachemaven&label=uuidulid&color=C71A36" alt="uuidulid on Maven Central"/></a>
 </p>
 
 ---
 
 ### 🧑‍💻 About me
 
-- 🏢 **Team Lead** people leadership, two-week sprints, a lot of coffee
+- 🏢 **Team Lead** of a dev team: people leadership, two-week sprints, a lot of coffee
 - ⚙️ Came up through **Java · Spring Boot · Angular**; these days I also ship **Go**, **TypeScript** and the odd **Swift** app
 - 🤖 Currently obsessed with the boring-but-critical parts of **AI agents**: durability, guardrails, audit trails, MCP
 - 🎓 IHK Agile Leadership (with distinction) · Certified Scrum Master
 - 💬 Ask me about Spring AI, MCP servers, Shopware 6, or how to run a dev team without micromanaging it
+
+### 🔭 Right now
+
+- 🛡️ Hardening **agentgate**: policy + audit + kill switch for MCP tool calls, one Go binary
+- 🔁 Shipping **spring-durable-agents**: agents that survive a crash or redeploy and pick up where they stopped
+- 🛒 Growing **shopware-mcp** with every "can the assistant also…" question from shop owners
+- 📐 Training **roofsight** models that run on the phone in the installer's hand
 
 ### 🛠️ Tech stack
 
@@ -61,7 +66,7 @@ PASTE_TEST_LINE
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bnymnDev&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img src="https://streak-stats.demolab.com/?user=bnymnDev&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
 
 <p align="center">
