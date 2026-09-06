@@ -16,11 +16,11 @@
 
 ### About me
 
-- **Team Lead** of a dev team: people leadership, two-week sprints, a lot of coffee
+- **Team Lead** a lot of coffee
 - Came up through **Java · Spring Boot · Angular**; these days I also ship **Go**, **TypeScript** and the odd **Swift** app
 - Currently obsessed with the boring-but-critical parts of **AI agents**: durability, guardrails, audit trails, MCP
-- IHK Agile Leadership (with distinction) · Certified Scrum Master
-- Ask me about Spring AI, MCP servers, Shopware 6, or how to run a dev team without micromanaging it
+- IHK Agile Leadership · Certified Scrum Master
+- Ask me about Spring AI, MCP servers, Shopware 6
 
 ### Right now
 
