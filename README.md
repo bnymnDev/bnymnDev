@@ -62,10 +62,6 @@
 ### Stats
 
 <p align="center">
-  <img src="github-metrics.svg" alt="GitHub metrics" width="100%"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=bnymnDev&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
 
